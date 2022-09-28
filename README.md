@@ -3,7 +3,7 @@
     <div>
         <div style="flex:1">
             Hello！茫茫人海, 感谢相遇 ✨
-            <img align="right" width="auto" height="150" src= "https://github-readme-stats.vercel.app/api?username=CocaineCong&theme=nightowl&show_icons=true">
+            <img align="right" width="auto" height="170" src= "https://github-readme-stats.vercel.app/api?username=CocaineCong&theme=nightowl&show_icons=true">
         </div>
         </br>
         <div style="flex:1" >
