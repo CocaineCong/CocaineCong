@@ -13,7 +13,7 @@
                 <li> 📫 我的邮箱 : FanOne666@gmail.com </li>
                 <li> 🔭 我的B站频道 : <a href="https://space.bilibili.com/291348098" rel="nofollow">https://space.bilibili.com/291348098</a> </li>
                 <li> 📝 个人博客 : <a href="https://blog.csdn.net/weixin_45304503" rel="nofollow">https://blog.csdn.net/weixin_45304503</a> </li>
-                <li> 💻 个人微信公众号 : <a href="https://img-blog.csdnimg.cn/194b66498e6143d7a6a76eb868ef8f13.jpeg" rel="nofollow">小生凡一</a> </li>
+                <li> 💻 个人微信公众号 : <a href="https://github.com/CocaineCong/CocaineCong/blob/9f4a44a263fb39e52dcd28f14a220687ce08c6c3/FanOne.jpg" rel="nofollow">小生凡一</a> </li>
             </ul>
         </div>
     </div>
