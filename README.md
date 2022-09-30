@@ -19,7 +19,7 @@
     </div>
     <div style="flex:1">
         <p>
-          <img align="left" src="https://img-blog.csdnimg.cn/194b66498e6143d7a6a76eb868ef8f13.jpeg" width="100px" style="max-width: 100%;">
+          <img align="left" src="./FanOne.jpg" width="100" style="max-width: 100%;">
         </p>
     </div>
 
