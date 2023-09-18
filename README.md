@@ -10,7 +10,7 @@
             <ul >
                 <li> 🧀 喜欢分享编程知识，更欢迎来交流学习。</li>
                 <li> 🎁 希望有一天能成为很厉害的架构师。</li>
-                <li> 📫 我的邮箱 : FanOne666@gmail.com </li>
+                <li> 📫 我的邮箱 : cocainecong@outlook.com </li>
                 <li> 🔭 我的B站频道 : <a href="https://space.bilibili.com/291348098" rel="nofollow">https://space.bilibili.com/291348098</a> </li>
                 <li> 📝 个人博客 : <a href="https://blog.csdn.net/weixin_45304503" rel="nofollow">https://blog.csdn.net/weixin_45304503</a> </li>
                 <li> 💻 个人微信公众号 : <a href="https://github.com/CocaineCong/CocaineCong/blob/9f4a44a263fb39e52dcd28f14a220687ce08c6c3/FanOne.jpg" rel="nofollow">小生凡一</a> </li>
